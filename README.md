@@ -14,11 +14,11 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
 </div>
 :man_technologist: About Me :
 
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Estonia.
+I am a Front-End Developer from Estonia.
 
 - 	:desktop_computer: Developing in the field of information technology
 
