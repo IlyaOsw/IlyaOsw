@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/i4jKn7itdV2Tvjzj6Y/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/i4jKn7itdV2Tvjzj6Y/giphy.gif" height="190" width="271"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/ilya_osw/">
