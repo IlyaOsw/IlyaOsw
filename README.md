@@ -8,7 +8,7 @@
   <a href="https://www.facebook.com/ilyaosw/">
     <img src="https://img.shields.io/badge/facebook-%20-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/ilyaosw/" target="_blank">
+  <a href="https://www.linkedin.com/in/ilyaosw/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
