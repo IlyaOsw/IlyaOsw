@@ -29,7 +29,7 @@ I am a Front-End Developer from Estonia.
 
 - :chart: In free timу focuses on self-development and self-education
 
-- :email: How to reach me: ilya_osw@bk.ru
+- :email: How to reach me: ossipov96@gmail.com
 
 ---
 
