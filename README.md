@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/ilya_osw/">
-    <img src="https://img.shields.io/badge/Instagram-%20-red?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.facebook.com/ilyaosw/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
