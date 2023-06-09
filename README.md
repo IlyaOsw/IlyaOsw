@@ -21,7 +21,7 @@
 </div>
 :man_technologist: About Me :
 
-I am a Front-End Developer from Estonia.
+I am a Front-End developer from Estonia.
 
 - 	:desktop_computer: Developing in the field of information technology
 
