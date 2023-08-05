@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/i4jKn7itdV2Tvjzj6Y/giphy.gif" height="190" width="271"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.instagram.com/ilya_osw/" target='_blank'>
+  <a href="https://www.instagram.com/ilya_osw/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.facebook.com/ilyaosw/" target='_blank'>
+  <a href="https://www.facebook.com/ilyaosw/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/ilyaosw/" target='_blank'>
+  <a href="https://www.linkedin.com/in/ilyaosw/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
